@@ -1,2 +1,2 @@
 # ids
-In this project, we will study the NSL_KDD dataset by using R
+In this project, we present NSL_KDD dataset  exploratory analysis using R
